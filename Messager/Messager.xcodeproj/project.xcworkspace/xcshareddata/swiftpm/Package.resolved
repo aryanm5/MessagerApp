@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ColorPicker",
+        "repositoryURL": "https://github.com/hendriku/ColorPicker.git",
+        "state": {
+          "branch": null,
+          "revision": "efafda91fc7ab46b13a4e55d8d9193302c796e80",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "DynamicColor",
+        "repositoryURL": "https://github.com/yannickl/DynamicColor.git",
+        "state": {
+          "branch": null,
+          "revision": "1e85f9461f44bbf8c3ffba9101b8d202f864cdc6",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
